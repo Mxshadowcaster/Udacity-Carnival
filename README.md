@@ -4,9 +4,8 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Course: Introduction to Virtual Reality
 - Project: Udacity Carnival
 
-#About /br
-This project was built by Udacity and edited by Jaed Lambert /br
-A fun Carnival game with a cuddly prize!! /br
+# About
+This project was made by Udacity, and edited and customized by Jaed Lambert. This is an interactive 360 carnival experience for Google Cardboard! Win enough points and recieve a big, cuddly prize!
 
 
 ### Versions Used
