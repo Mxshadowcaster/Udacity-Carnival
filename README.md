@@ -4,9 +4,9 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Course: Introduction to Virtual Reality
 - Project: Udacity Carnival
 
-#About
-This project was built by Udacity and edited by Jaed Lambert
-A fun Carnival game with a cuddly prize!!
+#About /br
+This project was built by Udacity and edited by Jaed Lambert /br
+A fun Carnival game with a cuddly prize!! /br
 
 
 ### Versions Used
